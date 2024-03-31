@@ -7,4 +7,4 @@ const caseSwapper = function (){ // This is where the function that swaps cases 
        console.log (stringPrompt.toupperCase() )
     }else console.log (stringPrompt.toLowerCase())
 }
-caseSwapper() //This is where the function is called
+caseSwapper() //This is where the function is called.
