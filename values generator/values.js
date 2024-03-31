@@ -1,4 +1,4 @@
-console.log (printArray()) // takes in the two numbers
+console.log (printArray()) // This is where the two numbers are input.
 function printArray (num1,num2) {
 function mapVals(_,i){ //=>This is a function that takes in two parameters (_ & i)  _ represents a parameter which 
                        // should be ignored during execution. i represents the parameter of an index.
